@@ -52,12 +52,14 @@ Enable daily and monthly performance monitoring using KPI metrics
 
   c.Age Group Analysis
 
-3. Use slicers to filter by month, city, sales mode, etc.
+3. Use slicers to filter by month, city, sales mode, and other relevant criteria.
 
 4. View trends, KPIs, and segment-specific performance insights
 
 📢 Author
 
  Tejaswini Malagi
+ 
  Data Analyst | Power BI Enthusiast
+ 
  LinkedIn Profile (www.linkedin.com/in/tejaswini-malagi)
