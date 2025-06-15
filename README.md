@@ -46,11 +46,11 @@ Enable daily and monthly performance monitoring using KPI metrics
 
 2. Navigate through each report tab:
 
-  a.General View
-
-  b.Sales Mode Analysis
-
-  c.Age Group Analysis
+        a.General View
+      
+        b.Sales Mode Analysis
+      
+        c.Age Group Analysis
 
 3. Use slicers to filter by month, city, sales mode, and other relevant criteria.
 
