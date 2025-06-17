@@ -63,4 +63,5 @@ Enable daily and monthly performance monitoring using KPI metrics
  Data Analyst | Power BI Enthusiast
  
  LinkedIn Profile (www.linkedin.com/in/tejaswini-malagi)
+ 
  Watch the full presentation of insights(http://bit.ly/3SRYAbV)
