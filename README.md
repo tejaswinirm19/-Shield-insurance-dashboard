@@ -65,3 +65,5 @@ Enable daily and monthly performance monitoring using KPI metrics
  LinkedIn Profile (www.linkedin.com/in/tejaswini-malagi)
  
  Watch the full presentation of insights(http://bit.ly/3SRYAbV)
+
+ interact with the live dashboard(http://bit.ly/4leP3Yx)
